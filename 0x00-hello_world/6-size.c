@@ -2,7 +2,7 @@
 /**
  * main- entry point
  *
- * This is the main function 
+ * This is the main function
  *
  * Return: Always 0 (success)
  */
