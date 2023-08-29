@@ -4,6 +4,7 @@
  * _memcpy - Entry point
  * @dest: input
  * @src: input
+ * @n: number of bytes
  * Return: Always 0
  */
 
